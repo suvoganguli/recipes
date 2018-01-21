@@ -1,4 +1,4 @@
 select daal
 boil daal
 put salt, haldi and tarka
-
+put coriander leaves for garnish
